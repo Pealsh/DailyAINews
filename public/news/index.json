@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-10-23.md",
+    "date": "2026-10-23",
+    "day": "電信電話記念日",
+    "title": "AI技術ブリーフ",
+    "count": 7,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】anthropics/claude-plugins-official — Anthropic公式のClaude Codeプラグイン配布リポジトリ",
+      "【GitHub】cloudflare/security-audit-skill — Cloudflare製・多段階セキュリティ監査Agent Skill"
+    ]
+  },
+  {
     "file": "2026-10-22.md",
     "date": "2026-10-22",
     "day": "平安遷都の日",
