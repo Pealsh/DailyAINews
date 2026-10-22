@@ -1,0 +1,20 @@
+{
+  "name": "ai-daily",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/build-index.mjs && vite",
+    "build": "node scripts/build-index.mjs && vite build",
+    "index": "node scripts/build-index.mjs",
+    "test": "node --test tests/parse.test.mjs"
+  },
+  "dependencies": {
+    "marked": "^18.1.1",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.5"
+  }
+}
