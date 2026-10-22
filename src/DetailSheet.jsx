@@ -9,19 +9,19 @@ export default function DetailSheet({ file, onClose }) {
   const panel = useRef(null);
   const body = useRef(null);
   const drag = useRef({ y0: null, dy: 0 });
-  const isOpen = Boolean(file && news);
+  const [error, setError] = useState(false);
+  const isOpen = Boolean(file);
+  const current = news?.file === file ? news : null;
 
   useEffect(() => {
     if (!file) return;
     let alive = true;
-    fetch(`${BASE}news/${file}`)
-      .then((r) => (r.ok ? r.text() : Promise.reject()))
-      .then((md) => {
-        if (!alive) return;
-        setNews({ ...parseNews(md), file });
-        if (body.current) body.current.scrollTop = 0;
-      })
-      .catch(onClose);
+    setError(false);
+    if (body.current) body.current.scrollTop = 0;
+    fetch(`${BASE}news/${file}`, { cache: 'no-cache' })
+      .then((r) => (r.ok ? r.text() : Promise.reject(new Error(r.status))))
+      .then((md) => { if (alive) setNews({ ...parseNews(md), file }); })
+      .catch(() => { if (alive) setError(true); });
     return () => { alive = false; };
   }, [file]);
 
@@ -64,12 +64,15 @@ export default function DetailSheet({ file, onClose }) {
         <div className="grab" />
         <header className="panel-head">
           <button className="close" onClick={onClose} aria-label="閉じる">✕</button>
-          <p className="day">{news?.day}</p>
-          <h2>{news && formatDate(news.date || news.file.slice(0, 10))}</h2>
+          <p className="day">{current?.day}</p>
+          <h2>{file && formatDate(current?.date || file.slice(0, 10))}</h2>
         </header>
         <div ref={body} className="panel-body">
-          {news?.items.map((it, i) => (
-            <section className="item" key={`${news.file}-${i}`} style={{ '--i': i }}>
+          {error && <p className="status">記事を読み込めませんでした</p>}
+          {!error && !current && file && <p className="status">読み込み中…</p>}
+          {current && current.items.length === 0 && <p className="status">記事がありません</p>}
+          {current?.items.map((it, i) => (
+            <section className="item" key={`${current.file}-${i}`} style={{ '--i': i }}>
               <span className="num">{String(i + 1).padStart(2, '0')}</span>
               <h3>{it.title}</h3>
               <div
