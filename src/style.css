@@ -4,7 +4,7 @@
   color-scheme: light dark;
 }
 @media (prefers-color-scheme: dark) {
-  :root { --bg: #000; --fg: #fff; --muted: #8e8e8e; --line: #222; --card: #0b0b0b; --soft: #141414; }
+  :root { --bg: #313338; --fg: #f2f3f5; --muted: #b5bac1; --line: #3f4147; --card: #2b2d31; --soft: #1e1f22; }
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
 html { -webkit-text-size-adjust: 100%; }
