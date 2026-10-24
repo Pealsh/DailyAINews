@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-10-25.md",
+    "date": "2026-10-25",
+    "day": "リクエストの日",
+    "title": "AI技術ブリーフ",
+    "count": 9,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】cloudflare/security-audit-skill — コーディングエージェントをセキュリティ監査ツールに変えるSkill",
+      "【GitHub】anthropics/claude-plugins-official — Anthropic公式のClaude Codeプラグインディレクトリ"
+    ]
+  },
+  {
     "file": "2026-10-24.md",
     "date": "2026-10-24",
     "day": "国連デー",
