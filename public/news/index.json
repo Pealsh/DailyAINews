@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-10-26.md",
+    "date": "2026-10-26",
+    "day": "柿の日",
+    "title": "AI技術ブリーフ",
+    "count": 8,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】Nutlope/hallmark — 「AIっぽいデザイン」を自動で避けるデザインSkill",
+      "【GitHub】anthropics/knowledge-work-plugins — Claude Cowork/Code向け11職種プラグイン集"
+    ]
+  },
+  {
     "file": "2026-10-25.md",
     "date": "2026-10-25",
     "day": "リクエストの日",
