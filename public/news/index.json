@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-10-27.md",
+    "date": "2026-10-27",
+    "day": "文字・活字文化の日",
+    "title": "AI技術ブリーフ",
+    "count": 8,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】NVIDIA/SkillSpector — Agent Skillを入れる前に危険性を診断するセキュリティスキャナ",
+      "【GitHub】affaan-m/ECC — Claude Code/Codexに71エージェント・311スキルを一括導入する「エージェントハーネスOS」"
+    ]
+  },
+  {
     "file": "2026-10-26.md",
     "date": "2026-10-26",
     "day": "柿の日",
