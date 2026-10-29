@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-10-30.md",
+    "date": "2026-10-30",
+    "day": "たまごかけごはんの日",
+    "title": "AI技術ブリーフ",
+    "count": 8,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】obra/superpowers — 自動発火Skill群でブレスト→TDD→レビューの開発プロセスを強制するフレームワーク",
+      "【GitHub】cloudflare/security-audit-skill — Cloudflare社内の脆弱性調査手法を6フェーズSkillとして公開"
+    ]
+  },
+  {
     "file": "2026-10-29.md",
     "date": "2026-10-29",
     "day": "おしぼりの日",
