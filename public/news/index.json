@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-10-31.md",
+    "date": "2026-10-31",
+    "day": "日本茶の日",
+    "title": "AI技術ブリーフ",
+    "count": 8,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】mattpocock/skills — grill(質問攻め)からTDD・レビューまでを小さなSkillの組み合わせで実装するエンジニア向けフレームワーク",
+      "【GitHub】anthropics/skills — Anthropic公式のSkill実装例集。4カテゴリとSKILL.md仕様をApache 2.0中心で公開"
+    ]
+  },
+  {
     "file": "2026-10-30.md",
     "date": "2026-10-30",
     "day": "たまごかけごはんの日",
