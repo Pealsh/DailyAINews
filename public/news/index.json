@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-01.md",
+    "date": "2026-11-01",
+    "day": "犬の日",
+    "title": "AI技術ブリーフ",
+    "count": 9,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】thedotmack/claude-mem — セッションをまたいでAIエージェントの文脈を自動的に引き継ぐメモリシステム",
+      "【GitHub】pbakaus/impeccable — LLM不要の62ルールで「AIっぽいUI」を検出するデザイン審査スキル"
+    ]
+  },
+  {
     "file": "2026-10-31.md",
     "date": "2026-10-31",
     "day": "日本茶の日",
