@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-02.md",
+    "date": "2026-11-02",
+    "day": "書道の日",
+    "title": "AI技術ブリーフ",
+    "count": 11,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】obra/superpowers — Claude Codeなどに「開発方法論」そのものを注入するSkillフレームワーク",
+      "【GitHub】anthropics/skills — Anthropic公式、Agent Skills標準のリファレンス実装"
+    ]
+  },
+  {
     "file": "2026-11-01.md",
     "date": "2026-11-01",
     "day": "犬の日",
