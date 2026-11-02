@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-03.md",
+    "date": "2026-11-03",
+    "day": "文化の日",
+    "title": "AI技術ブリーフ",
+    "count": 10,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】thedotmack/claude-mem — Claude Codeにセッションを超えた「記憶」を持たせるプラグイン",
+      "【GitHub】vercel-labs/agent-desktop — アクセシビリティAPIでAIにデスクトップ操作をさせるCLI"
+    ]
+  },
+  {
     "file": "2026-11-02.md",
     "date": "2026-11-02",
     "day": "書道の日",
