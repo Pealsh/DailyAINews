@@ -1,14 +1,14 @@
 [
   {
-    "file": "2026-11-04.md",
-    "date": "2026-11-04",
-    "day": "ユネスコ憲章記念日",
+    "file": "2026-11-05.md",
+    "date": "2026-11-05",
+    "day": "津波防災の日・世界津波の日",
     "title": "AI技術ブリーフ",
-    "count": 7,
+    "count": 9,
     "heads": [
       "今日の技術トレンド要点",
-      "【GitHub】Donchitos/Claude-Code-Game-Studios — Claude Codeを「ゲームスタジオ」化する49エージェント・74Skillのテンプレート",
-      "【GitHub】spotify/portal-ai-plugins — Spotifyが社内開発者ポータルをAIコーディングエージェントに接続する公式プラグイン"
+      "【GitHub】NVIDIA/auto-ontology — 企業データに「認定済みの意味」を与えてAIエージェントのSQL生成を正確にするフレームワーク",
+      "【GitHub】mattpocock/skills — 人気TypeScript講師が公開する「主導権を保つ」ためのClaude Code/Codex向けSkill集"
     ]
   },
   {
@@ -21,18 +21,6 @@
       "今日の技術トレンド要点",
       "【GitHub】thedotmack/claude-mem — Claude Codeにセッションを超えた「記憶」を持たせるプラグイン",
       "【GitHub】vercel-labs/agent-desktop — アクセシビリティAPIでAIにデスクトップ操作をさせるCLI"
-    ]
-  },
-  {
-    "file": "2026-11-02.md",
-    "date": "2026-11-02",
-    "day": "書道の日",
-    "title": "AI技術ブリーフ",
-    "count": 11,
-    "heads": [
-      "今日の技術トレンド要点",
-      "【GitHub】obra/superpowers — Claude Codeなどに「開発方法論」そのものを注入するSkillフレームワーク",
-      "【GitHub】anthropics/skills — Anthropic公式、Agent Skills標準のリファレンス実装"
     ]
   },
   {
