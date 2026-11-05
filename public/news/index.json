@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-06.md",
+    "date": "2026-11-06",
+    "day": "アパート記念日",
+    "title": "AI技術ブリーフ",
+    "count": 7,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】Usagi-org/ai-goofish-monitor — AIが条件判定する「闲鱼(中国版フリマ)」自動監視エージェント",
+      "【GitHub】google/skills — Google公式のAgent Skillsライブラリ、GCPスキルをコマンド一発で導入"
+    ]
+  },
+  {
     "file": "2026-11-05.md",
     "date": "2026-11-05",
     "day": "津波防災の日・世界津波の日",
