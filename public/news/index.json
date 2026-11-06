@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-07.md",
+    "date": "2026-11-07",
+    "day": "立冬",
+    "title": "AI技術ブリーフ",
+    "count": 10,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】cloudflare/security-audit-skill — コーディングエージェントを多段階セキュリティ監査員に変える公式Skill",
+      "【GitHub】anthropics/skills — Agent Skills公式仕様とサンプルを収めたAnthropic自身のリポジトリ"
+    ]
+  },
+  {
     "file": "2026-11-06.md",
     "date": "2026-11-06",
     "day": "アパート記念日",
