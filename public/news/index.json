@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-08.md",
+    "date": "2026-11-08",
+    "day": "レントゲンの日",
+    "title": "AI技術ブリーフ",
+    "count": 8,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】vercel-labs/agent-browser — AIエージェント専用に作られたRust製ブラウザ操作CLI",
+      "【GitHub】google/skills — Google Cloud/Gemini向けAgent Skillsを公式に束ねたリポジトリ"
+    ]
+  },
+  {
     "file": "2026-11-07.md",
     "date": "2026-11-07",
     "day": "立冬",
