@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-09.md",
+    "date": "2026-11-09",
+    "day": "119番の日",
+    "title": "AI技術ブリーフ",
+    "count": 8,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】anthropics/skills — Agent Skills公式仕様とサンプル実装を収めたAnthropicのリポジトリ",
+      "【GitHub】thedotmack/claude-mem — コーディングエージェントにセッション間の記憶を持たせるMCPツール"
+    ]
+  },
+  {
     "file": "2026-11-08.md",
     "date": "2026-11-08",
     "day": "レントゲンの日",
