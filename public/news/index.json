@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-11.md",
+    "date": "2026-11-11",
+    "day": "ポッキー&プリッツの日",
+    "title": "AI技術ブリーフ",
+    "count": 5,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】addyosmani/agent-skills — コーディングエージェントに「シニアエンジニアの作法」を強制する25種のSkill集",
+      "【GitHub】homeassistant-ai/ha-mcp — Home Assistantを「操作」だけでなく「構築・デバッグ」までAIに任せる87ツールのMCPサーバー"
+    ]
+  },
+  {
     "file": "2026-11-10.md",
     "date": "2026-11-10",
     "day": "技能の日",
