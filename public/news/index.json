@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-13.md",
+    "date": "2026-11-13",
+    "day": "あいさつの日",
+    "title": "AI技術ブリーフ",
+    "count": 6,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】GoogleChrome/modern-web-guidance-src — コーディングエージェントに「今のWeb標準」を教え込むAgent Skill",
+      "【GitHub】QwenLM/qwen-code — マルチプロトコル対応のオープンソースAIコーディングエージェント"
+    ]
+  },
+  {
     "file": "2026-11-12.md",
     "date": "2026-11-12",
     "day": "洋服記念日",
