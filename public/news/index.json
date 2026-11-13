@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-14.md",
+    "date": "2026-11-14",
+    "day": "世界糖尿病デー",
+    "title": "AI技術ブリーフ",
+    "count": 7,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】alibaba/open-code-review — 「決定的パイプライン+LLMエージェント」でレビューのブレを抑えるAIコードレビューCLI",
+      "【GitHub】backnotprop/plannotator — エージェントのplanとPRにブラウザから注釈を返す「ループに留まる」ためのワークスペース"
+    ]
+  },
+  {
     "file": "2026-11-13.md",
     "date": "2026-11-13",
     "day": "あいさつの日",
