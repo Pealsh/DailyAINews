@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-15.md",
+    "date": "2026-11-15",
+    "day": "七五三",
+    "title": "AI技術ブリーフ",
+    "count": 7,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】JuliusBrussee/caveman — 「原人語」でエージェントのトークンを削るAgent Skill+プロキシ",
+      "【GitHub】Tencent/LoopForge — 複数のコーディングエージェントCLIをSOPと承認ゲートで統制する自社ホスト型オーケストレーター"
+    ]
+  },
+  {
     "file": "2026-11-14.md",
     "date": "2026-11-14",
     "day": "世界糖尿病デー",
