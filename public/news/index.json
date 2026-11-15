@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-16.md",
+    "date": "2026-11-16",
+    "day": "いいいろの日",
+    "title": "AI技術ブリーフ",
+    "count": 10,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】anthropics/skills — Claude公式のAgent Skills実装・仕様リポジトリ",
+      "【GitHub】ChromeDevTools/chrome-devtools-mcp — ブラウザのデバッグ能力をそのままコーディングエージェントに渡すMCPサーバー"
+    ]
+  },
+  {
     "file": "2026-11-15.md",
     "date": "2026-11-15",
     "day": "七五三",
