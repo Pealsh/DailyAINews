@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-18.md",
+    "date": "2026-11-18",
+    "day": "土木の日",
+    "title": "AI技術ブリーフ",
+    "count": 8,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】mvanhorn/last30days-skill — Reddit・X・HN等を横断調査しエンゲージメントで順位付けするAgent Skill",
+      "【GitHub】obra/superpowers — 「設計→計画→サブエージェント実装→レビュー」を自動で踏ませるAgent Skills群"
+    ]
+  },
+  {
     "file": "2026-11-17.md",
     "date": "2026-11-17",
     "day": "将棋の日",
