@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-19.md",
+    "date": "2026-11-19",
+    "day": "世界トイレデー",
+    "title": "AI技術ブリーフ",
+    "count": 8,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】elementalsouls/Claude-BugHunter — 83のSKILL.mdで「認可済みバグハンティング」を自動化するClaude Codeプラグイン",
+      "【GitHub】google-labs-code/stitch-skills — Google StitchのMCPサーバーと連携するデザイン生成Agent Skills集"
+    ]
+  },
+  {
     "file": "2026-11-18.md",
     "date": "2026-11-18",
     "day": "土木の日",
