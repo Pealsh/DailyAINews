@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-20.md",
+    "date": "2026-11-20",
+    "day": "ホテルの日",
+    "title": "AI技術ブリーフ",
+    "count": 9,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】cathrynlavery/diagram-design — ブランドの色とフォントを自動抽出し、51種の図版を1枚のHTML+SVGで描くエディトリアル品質のAgent Skill",
+      "【GitHub】kajisho5/ffmpeg-skill — 42個のFFmpegツール+MCPサーバーでエージェントに「ローカル動画編集者」を持たせるAgent Skill"
+    ]
+  },
+  {
     "file": "2026-11-19.md",
     "date": "2026-11-19",
     "day": "世界トイレデー",
