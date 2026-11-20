@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-21.md",
+    "date": "2026-11-21",
+    "day": "歌舞伎座開業記念日",
+    "title": "AI技術ブリーフ",
+    "count": 8,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】HKUDS/CLI-Anything — ワンコマンドで任意のGUIソフトを「エージェント対応CLI」に変換するAgent Skill/プラグイン",
+      "【GitHub】cursor/plugins — Cursor公式プラグイン集。100超のSaaS連携とエージェント向けCLI設計Skillを無料配布"
+    ]
+  },
+  {
     "file": "2026-11-20.md",
     "date": "2026-11-20",
     "day": "ホテルの日",
