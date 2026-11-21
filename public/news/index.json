@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-22.md",
+    "date": "2026-11-22",
+    "day": "いい夫婦の日",
+    "title": "AI技術ブリーフ",
+    "count": 6,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】Tracer-Cloud/opensre — CIの赤を自分で調査し、fix案をPRにpushする自己ホスト型CI/CD信頼性エージェント",
+      "【GitHub】mjmirza/app-store-compliance — 12種のAIコーディングツールにskillとして入り込み、submit前にApp Store/Google Playのリジェクト要因を検出するプレイブック"
+    ]
+  },
+  {
     "file": "2026-11-21.md",
     "date": "2026-11-21",
     "day": "歌舞伎座開業記念日",
