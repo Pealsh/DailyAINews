@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-23.md",
+    "date": "2026-11-23",
+    "day": "勤労感謝の日",
+    "title": "AI技術ブリーフ",
+    "count": 5,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】wshobson/agents — 7種のAIコーディングツール向けに、1つのMarkdown定義から配布するプラグイン・エージェント・Agent Skillsカタログ",
+      "【GitHub】awslabs/cli-agent-orchestrator — AWS Labs製、13種のAIコーディングCLIをtmuxで束ねるマルチエージェント・オーケストレーター"
+    ]
+  },
+  {
     "file": "2026-11-22.md",
     "date": "2026-11-22",
     "day": "いい夫婦の日",
