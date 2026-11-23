@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-24.md",
+    "date": "2026-11-24",
+    "day": "和食の日",
+    "title": "AI技術ブリーフ",
+    "count": 7,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】obra/superpowers — エージェント向けSkill群＋開発手法フレームワーク",
+      "【GitHub】google-labs-code/stitch-skills — Google Stitch連携のAgent Skills集"
+    ]
+  },
+  {
     "file": "2026-11-23.md",
     "date": "2026-11-23",
     "day": "勤労感謝の日",
