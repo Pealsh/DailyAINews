@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-25.md",
+    "date": "2026-11-25",
+    "day": "ハイビジョンの日",
+    "title": "AI技術ブリーフ",
+    "count": 11,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】HKUDS/CLI-Anything — 専門ソフトをエージェント操作可能にするCLI/Skill自動生成ツール",
+      "【GitHub】ChromeDevTools/chrome-devtools-mcp — Google公式のブラウザ操作・計測MCPサーバー"
+    ]
+  },
+  {
     "file": "2026-11-24.md",
     "date": "2026-11-24",
     "day": "和食の日",
