@@ -1,5 +1,17 @@
 [
   {
+    "file": "2026-11-26.md",
+    "date": "2026-11-26",
+    "day": "いい風呂の日",
+    "title": "AI技術ブリーフ",
+    "count": 8,
+    "heads": [
+      "今日の技術トレンド要点",
+      "【GitHub】mvanhorn/last30days-skill — 直近30日の話題をエンゲージメントで裏取りするリサーチSkill",
+      "【GitHub】cathrynlavery/diagram-design — 52種の図をSVG埋め込みHTML1枚で生成するエディトリアル系Agent Skill"
+    ]
+  },
+  {
     "file": "2026-11-25.md",
     "date": "2026-11-25",
     "day": "ハイビジョンの日",
